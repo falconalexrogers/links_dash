@@ -1,0 +1,27 @@
+{
+    "id": "B721F56F",
+    "path": "~/signal_generation/global_scripts/global_email_ingest.R",
+    "project_path": "global_scripts/global_email_ingest.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1721903195798.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "116,16",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1723113931,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1723113931786,
+    "read_only": false,
+    "read_only_alternatives": []
+}

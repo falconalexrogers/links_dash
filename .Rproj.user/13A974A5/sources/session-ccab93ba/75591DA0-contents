@@ -1,0 +1,63 @@
+
+import requests as r
+
+resp = r.get(
+    "https://money.usnews.com/investing/articles/top-picks-of-10-billionaire-stock-portfolios",
+    verify=False),
+    headers = {'user-agent':"libcurl/7.88.1 r-curl/5.0.0 httr/1.4.6"},
+    timeout = 120
+)
+
+
+print(len(resp.content))
+
+
+import urllib.request as urllib2
+import urllib.request
+
+def main():
+
+   webUrl = urllib2.urlopen("https://www.python.org/")
+
+   print "result : " + str(webUrl.getcode())
+
+   data = webUrl.read()
+
+   print data
+
+if __name__ == "__main__":
+
+  main()
+  
+  
+  
+  
+def main():
+
+   req = urllib2.Request(
+     "http://www.imdb.com/chart/",
+     data=None,
+     headers={
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
+        }
+        )
+        
+    data = urllib.request.urlopen(req)
+
+
+   print ("result : " + str(webUrl.getcode())) 
+
+   data = webUrl.read()
+
+   print (data)
+
+if __name__ == "__main__":
+
+  main()
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+{
+    "id": "D3703937",
+    "path": "~/signal_generation/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "2972525982",
+    "contents": "",
+    "dirty": false,
+    "created": 1722862212680.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "28,5",
+        "scrollLine": "10"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1723115946,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1723115946567,
+    "read_only": false,
+    "read_only_alternatives": []
+}
